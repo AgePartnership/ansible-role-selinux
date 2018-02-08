@@ -1,6 +1,7 @@
 ansible-role-selinux
 =========
-
+<!--
+TODO: Finish this
 A brief description of the role goes here.
 
 Requirements
@@ -26,13 +27,14 @@ Including an example of how to use your role (for instance, with variables passe
     - hosts: servers
       roles:
          - { role: username.rolename, x: 42 }
-
+-->
 License
 -------
 
-BSD
+MIT (see LICENSE.md)
 
+<!--
 Author Information
 ------------------
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+An optional section for the role authors to include contact information, or a website (HTML is not allowed). -->
