@@ -10,4 +10,4 @@ galaxy_info:
         versions:
             - all
 dependencies:
-    - { role: GROG.reboot }
+    - { role: GROG.reboot, reboot: false }
